@@ -1,0 +1,20 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707964121
+icon.svg::CompressedTexture2D::1599126193549192350::1707591391::1707749436::1::::<><>::
+::res://Art/::1707749436
+crate.png::CompressedTexture2D::3473499658807442297::1707591391::1707749436::1::::<><>::
+tree.png::CompressedTexture2D::8597386790469409455::1707591391::1707749436::1::::<><>::
+::res://Art/tilesets/::1707749436
+Terrain (32x32).png::CompressedTexture2D::4690853623450382056::1707591391::1707749436::1::::<><>::
+::res://Scenes/::1707591391
+castle_tileset.tres::TileSet::8696099954701793252::1707591391::0::1::::<><>::uid://b73jw57phqeh1::::res://Art/tilesets/Terrain (32x32).png
+crate.tscn::PackedScene::5459533638904872735::1707591391::0::1::::<><>::uid://bpqubc4vwcmwn::::res://Art/crate.png
+demo_scene.tscn::PackedScene::8385221336501474691::1707591391::0::1::::<><>::res://Scripts/Rotate.gd<>uid://7le76tsvkmlt::::res://Scenes/player.tscn<>uid://dv5pq4cqkyek7::::res://Scenes/castle_tileset.tres
+player.tscn::PackedScene::2269052823509162713::1707591391::0::1::::<><>::res://Scripts/CharacterMovement.gd<>uid://w1vm0ib8gkl7::::res://icon.svg
+problem_four.tscn::PackedScene::737765605146376077::1707591391::0::1::::<><>::res://Scripts/Rotate.gd<>res://Scripts/CharacterMovement.gd<>uid://w1vm0ib8gkl7::::res://icon.svg<>uid://dv5pq4cqkyek7::::res://Scenes/castle_tileset.tres<>uid://cj1vyr6kvr67l::::res://Scenes/crate.tscn<>uid://duqvx7htykro6::::res://Art/tree.png
+problem_one.tscn::PackedScene::693233875712379051::1707591391::0::1::::<><>::res://Scripts/Rotate.gd<>uid://7le76tsvkmlt::::res://Scenes/player.tscn<>uid://dv5pq4cqkyek7::::res://Scenes/castle_tileset.tres
+problem_three.tscn::PackedScene::2435716526093364769::1707591391::0::1::::<><>::res://Scripts/Rotate.gd<>uid://7le76tsvkmlt::::res://Scenes/player.tscn<>uid://dv5pq4cqkyek7::::res://Scenes/castle_tileset.tres<>uid://cj1vyr6kvr67l::::res://Scenes/crate.tscn<>uid://duqvx7htykro6::::res://Art/tree.png
+problem_two.tscn::PackedScene::7795572710525718767::1707591391::0::1::::<><>::res://Scripts/Rotate.gd<>uid://7le76tsvkmlt::::res://Scenes/player.tscn<>uid://dv5pq4cqkyek7::::res://Scenes/castle_tileset.tres<>uid://cj1vyr6kvr67l::::res://Scenes/crate.tscn
+::res://Scripts/::1707591391
+CharacterMovement.gd::GDScript::-1::1707591391::0::1::::<>CharacterBody2D<>::
+Rotate.gd::GDScript::-1::1707591391::0::1::::<>Node2D<>::
